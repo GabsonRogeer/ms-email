@@ -3,7 +3,7 @@ Microsserviço de envio de E-mail
 
 ## Aplicação
 
-- Desenvolvido com Spring Boot na versão 3.0.3
+- Desenvolvido com Spring Boot na versão 3.0.2
 - Java JDK 17
 - Banco de Dados Postgresql 
 
